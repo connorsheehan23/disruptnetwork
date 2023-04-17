@@ -58,7 +58,7 @@ DarkRP.createAmmoType("buckshot", {
     price = 50,
     amountGiven = 8
 })
-
+ 
 Rifle ammo, usually used by assault rifles
 Example 3:
 
